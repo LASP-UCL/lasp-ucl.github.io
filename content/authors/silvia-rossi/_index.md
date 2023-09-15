@@ -6,7 +6,7 @@ authors:
 - "S. Rossi"
 
 # Role/position
-role: Postdoc CWI
+role: Postdoc at CWI
 
 # Short bio (displayed in user profile at end of posts)
 bio:

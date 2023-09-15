@@ -6,7 +6,7 @@ authors:
 - "S. Madjiheurem"
 
 # Role/position
-role: DeepMind Reseacher
+role: Reseacher at DeepMind
 
 # Short bio (displayed in user profile at end of posts)
 bio:

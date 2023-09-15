@@ -17,7 +17,6 @@ content:
 
   # Contact details (edit or remove options as required)
   email: l.toni@ucl.ac.uk
-  phone: +357 25 002618
   address:
     street: Gower Street
     city: London

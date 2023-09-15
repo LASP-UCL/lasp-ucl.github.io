@@ -6,7 +6,7 @@ authors:
 - "Kaige. Yang"
 
 # Role/position
-role: Amazon Reseacher
+role: Reseacher at Amazon
 
 # Short bio (displayed in user profile at end of posts)
 bio: ""

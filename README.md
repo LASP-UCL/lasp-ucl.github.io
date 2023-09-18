@@ -1,26 +1,27 @@
 # LASP Website
 
-LASP website built using Hugo wowchemy themes for Research Groups
+LASP website built using Hugo Wowchemy themes for Research Groups
 
 ### Local Development
 
 ```bash
-sh scripts/update_publication.sh # only one per
+sh scripts/update_publication.sh # only once
 hugo server
 ```
 
 ### deploy to gh-pages
 
-The deployment to gh-pages is automatically done when push to github. See the actions section for the GitHub Project
-The github that do this is defined in [.github/workflows/gh-pages.yml](.github/workflows/gh-pages.yml).
+The deployment is done by the workflow [.github/workflows/gh-pages.yml](.github/workflows/gh-pages.yml).
+It is automatically run when do git push.
+But it can also be run from the [actions section](https://github.com/LASP-UCL/lasp-ucl.github.io/actions) or by the command `gh workflow run` (when the [gh tool](https://github.com/cli/cli) is setup).
 
 ## References
 
-### aoubt Hugo static site tool
+### About Hugo static site tool
 
 - <https://gohugo.io/documentation/>
 
-### about wowchemy themes
+### About Wowchemy theme
 
 - wowchemy themes:
   - <https://github.com/wowchemy/wowchemy-hugo-themes/>
@@ -33,3 +34,10 @@ The github that do this is defined in [.github/workflows/gh-pages.yml](.github/w
   - <https://wowchemy.com/tags/research-group/>
 - wowchemy academic cli to produce pages from bib:
   - <https://github.com/wowchemy/hugo-academic-cli>
+
+### Other resesearch groups websites using Wowchemy theme
+
+- <https://github.com/tsl-imperial/tsl-website>
+- <https://github.com/SPS-L/sps-cut>
+- <https://github.com/2i2c-org/2i2c-org.github.io>
+- <https://github.com/mickaellalande/mickaellalande.github.io>

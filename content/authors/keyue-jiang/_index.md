@@ -10,7 +10,7 @@ authors:
 role: Phd student
 
 # Short bio (displayed in user profile at end of posts)
-bio: "I'm a first-year Phd student in Information Engineering and Machine Learning, jointly supervised by Dr. Laura Toni at University College London and Dr. Xiaowen Dong at the University of Oxford. Before that, I obtained my MSc in Data Science at UCL, advised by Dr. Pasquale Minervini at UCL NLP, and BEng in Ocean Engineering and Technology at Zhejiang University. My research interest lies in the general world of Graph Machine Learning, which includes, Graph Signal Processing, Graph Representation Learning and Knowledge Graphs I would like to give my special thanks to UCL faculty of engineering, UKRI EPSRC, and the China Scholarship Council for generously supporting my research."
+bio: ""
 
 # List each interest with a dash
 interests:
@@ -35,3 +35,5 @@ social:
 user_groups:
 - Researchers
 ---
+
+I'm a Phd student in Information Engineering and Machine Learning, jointly supervised by Dr. Laura Toni at University College London and Dr. Xiaowen Dong at the University of Oxford. Before that, I obtained my MSc in Data Science at UCL, advised by Dr. Pasquale Minervini at UCL NLP, and BEng in Ocean Engineering and Technology at Zhejiang University. My research interest lies in the general world of Graph Machine Learning, which includes, Graph Signal Processing, Graph Representation Learning and Knowledge Graphs.

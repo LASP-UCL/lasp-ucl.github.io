@@ -14,7 +14,9 @@ bio: ""
 
 # List each interest with a dash
 interests:
-- Graph Machine Learning
+- Probabilistic Graph Machine Learning
+- Graph Signal Processing
+- Knowledge Graphs and Large Language Models
 
 # Remove the ones not needed
 social:
@@ -36,4 +38,7 @@ user_groups:
 - Researchers
 ---
 
-I'm a Phd student in Information Engineering and Machine Learning, jointly supervised by Dr. Laura Toni at University College London and Dr. Xiaowen Dong at the University of Oxford. Before that, I obtained my MSc in Data Science at UCL, advised by Dr. Pasquale Minervini at UCL NLP, and BEng in Ocean Engineering and Technology at Zhejiang University. My research interest lies in the general world of Graph Machine Learning, which includes, Graph Signal Processing, Graph Representation Learning and Knowledge Graphs.
+Hi there! I am a PhD student in Information Engineering and Machine Learning, jointly supervised by [Dr. Laura Toni](https://lasp-ucl.github.io/author/laura-toni/) at University College London and [Dr. Xiaowen Dong](https://web.media.mit.edu/~xdong/) at the University of Oxford. Before that, I obtained my MSc in Data Science at UCL, advised by [Dr. Pasquale Minervini](https://neuralnoise.com/) at [UCL NLP](https://nlp.cs.ucl.ac.uk/), and BEng in Ocean Engineering and Technology at Zhejiang University. My research interest lies in the general world of Graph Machine Learning, which includes, Probabilistic Graph Machine Learning, Graph Signal Processing and Knowledge Graphs.
+
+
+For more information about me, click [Here](https://garyball.github.io/).

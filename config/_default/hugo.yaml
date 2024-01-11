@@ -8,7 +8,7 @@ title: Learning And Signal Processing
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-# baseurl: ""
+baseURL: 'https://lasp-ucl.github.io' # Website URL
 # copyright: ""
 
 ############################

@@ -13,16 +13,16 @@ appearance:
 marketing:
   seo:
     site_type: EducationalOrganization
-    local_business_type: ""
-    org_name: "Learning And Signal Processing at UCL"
-    description: "Learning And Signal Processing at UCL"
-    twitter: "UCL_LASP"
+    local_business_type: ''
+    org_name: 'Learning And Signal Processing at UCL'
+    description: 'Learning And Signal Processing at UCL'
+    twitter: 'UCL_LASP'
   analytics:
-    google_analytics: ""
-    baidu_tongji: ""
+    google_analytics: ''
+    baidu_tongji: ''
   verification:
-    google: ""
-    baidu: ""
+    google: ''
+    baidu: ''
 
 # Site header
 header:
@@ -38,7 +38,7 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: "© {year} UCL-LASP. This work is licensed under {license}"
+    notice: '© {year} UCL-LASP. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
@@ -47,8 +47,8 @@ footer:
 
 # Localization
 locale:
-  date_format: "Jan 2, 2006"
-  time_format: "15:04"
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
   address_format: en-us
 
 # Site features
@@ -62,24 +62,30 @@ features:
     enable: true
   privacy_pack:
     enable: false
+  repository:
+    url: 'https://github.com/lasp-ucl/lasp-ucl.github.io'
+    content_dir: content
+    branch: main
   avatar:
     gravatar: false
     shape: circle
   comment:
-    provider: ""
+    provider: ''
     disqus:
-      shortname: ""
+      shortname: ''
       show_count: true
     commento:
-      url: ""
+      url: ''
   search:
     provider: wowchemy
-    wowchemy:
-      min_length: 1 # Only the matches whose length exceeds this value will be returned.
-      threshold: 0.3 # Where 0 requires a perfect match and 1 matches anything.
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
   map:
-    provider: "mapnik"
-    api_key: ""
+    provider: 'mapnik'
+    api_key: ''
     zoom: 15
 
 # Extensions
@@ -87,9 +93,6 @@ extensions:
   cms:
     branch: main
     local_backend: false
-  isotope:
-    # Enable if you use the Portfolio widget or Publication filter
-    enable: true
   academicons:
     enable: true
 

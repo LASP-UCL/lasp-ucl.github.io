@@ -1,6 +1,6 @@
 # LASP Website
 
-LASP website built using Hugo Wowchemy theme for Research Groups
+LASP website built using [Hugo Blox](https://docs.hugoblox.com/) theme for Research Groups.
 
 ### Local Development
 
@@ -16,25 +16,15 @@ It is automatically done when do a git push. It can also be done from the [actio
 
 ## References
 
-### About Hugo static site tool
+### About hugo-blox theme
 
-- <https://gohugo.io/documentation/>
+- hugo-blox theme documentation: <https://docs.hugoblox.com/>
+- hugo-blox theme blocks: <https://docs.hugoblox.com/getting-started/page-builder/>
+- hugo-blox theme starter for research group: <https://github.com/HugoBlox/theme-research-group>
+- hugo-blox academic cli to produce pages from bib: <https://github.com/hugo-blox/hugo-academic-cli>
+- hugo static site tool documentation: <https://gohugo.io/documentation/>>
 
-### About Wowchemy theme
-
-- wowchemy theme:
-  - <https://github.com/wowchemy/wowchemy-hugo-themes/>
-  - <https://wowchemy.com/docs/getting-started/install-hugo-extended/>
-- wowchemy theme blocks:
-  - <https://wowchemy.com/blocks/>
-  - <https://github.com/wowchemy/wowchemy-hugo-themes/tree/main/modules/wowchemy/layouts/partials/blocks>
-- wowchemy theme starter for research group:
-  - <https://github.com/wowchemy/starter-hugo-research-group>
-  - <https://wowchemy.com/tags/research-group/>
-- wowchemy academic cli to produce pages from bib:
-  - <https://github.com/wowchemy/hugo-academic-cli>
-
-### Other resesearch groups websites using Wowchemy theme
+### Other resesearch groups websites using hugo-blox theme
 
 - <https://github.com/logconference/logconference.github.io>
 - <https://github.com/tsl-imperial/tsl-website>

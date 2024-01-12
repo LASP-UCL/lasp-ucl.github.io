@@ -2,17 +2,26 @@
 
 LASP website built using [Hugo Blox](https://docs.hugoblox.com/) theme for Research Groups.
 
-### Local Development
+## Making changes
+
+1. Install Hugo, [see here](https://docs.hugoblox.com/getting-started/install-hugo/).
+2. Install python (required by publication), [see here](https://www.python.org/downloads/)
+2. Choose a editor, [see here](https://docs.hugoblox.com/getting-started/cms/visual-studio-code/)
+3. Edit.
+    - For the main page, [see here](https://docs.hugoblox.com/getting-started/page-builder/)
+    - For a user profile page, [see here](https://docs.hugoblox.com/tutorial/resume/step-2)
+4. Git commit and push your changes.
+5. The deployment is done by the an GitHub workflow [.github/workflows/gh-pages.yml](.github/workflows/gh-pages.yml).
+So, It is automatically done when do a git push. It can also be done from the [actions section](https://github.com/LASP-UCL/lasp-ucl.github.io/actions).
+
+### `publication` folder
+
+To create the publication folder, you should run the `update_publication.sh` to like below.
 
 ```bash
 sh scripts/update_publication.sh # only once
 hugo server
 ```
-
-### deploy to GitHub pages
-
-The deployment is done by the an GitHub workflow [.github/workflows/gh-pages.yml](.github/workflows/gh-pages.yml).
-It is automatically done when do a git push. It can also be done from the [actions section](https://github.com/LASP-UCL/lasp-ucl.github.io/actions).
 
 ## References
 

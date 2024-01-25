@@ -15,7 +15,8 @@ bio: "I earned my MSc degree in Integrated Machine Learning Systems at UCL and m
 # List each interest with a dash
 interests:
 - Graph Machine Learning
-
+- Graph Anomaly Detection
+- Dynamic Graph Modelling 
 # Remove the ones not needed
 social:
 - icon: envelope

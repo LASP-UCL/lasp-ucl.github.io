@@ -10,7 +10,7 @@ authors:
 role: Phd student
 
 # Short bio (displayed in user profile at end of posts)
-bio: ""
+bio: "I earned my MSc degree in Integrated Machine Learning Systems at UCL and my BEng in Mechatronics Engineering at Beijing Jiaotong University (China) and University of Wollongong (Australia). I aim to develop practical algorithms for anomaly detection on real-world networks. My research interests includes anomaly detection on dynamic graphs and dynamic graph modelling."
 
 # List each interest with a dash
 interests:

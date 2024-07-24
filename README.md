@@ -1,6 +1,6 @@
 # LASP Website
 
-LASP website built using [Hugo Blox](https://docs.hugoblox.com/) theme for Research Groups.
+LASP website using [Hugo](https://gohugo.io/documentation/) and [HugoBlox Academic Group Theme](https://github.com/HugoBlox/theme-research-group) for `github-pages`.
 
 ## 1. Setup an environment
 
@@ -32,18 +32,7 @@ The deployment to <http://lasp-ucl.github.io> is done by [a GitHub workflow](.gi
 See deployment logs (and possible fails) at the [project actions](https://github.com/LASP-UCL/lasp-ucl.github.io/actions).
 
 
-## References
-
-### About hugo-blox theme
-
-- hugo-blox theme documentation the main page, [see here](https://docs.hugoblox.com/getting-started/page-builder/)
-- hugo-blox theme docmentation for a user profile page, [see here](https://docs.hugoblox.com/tutorial/resume/step-2)
-- hugo-blox theme starter for academic cv: <https://github.com/HugoBlox/theme-academic-cv>
-- hugo-blox theme starter for research group: <https://github.com/HugoBlox/theme-research-group>
-- hugo-blox academic cli to produce pages from bib: <https://github.com/hugo-blox/hugo-academic-cli>
-- hugo static site tool documentation: <https://gohugo.io/documentation/>>
-
-### Other resesearch groups websites using hugo-blox theme
+## References of other websites using HugoBlox Academic Group Theme
 
 - <https://github.com/logconference/logconference.github.io>
 - <https://github.com/tsl-imperial/tsl-website>

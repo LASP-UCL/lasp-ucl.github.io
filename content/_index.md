@@ -3,6 +3,13 @@ title:
 type: landing
 sections:
   - block: markdown
+    id: bold
+    content:
+      text: |-
+        {{% callout note %}}
+        <b>Learning And Signal Processing (LASP)</b> has been sunsetted and merged with the British Open-Ended Learning & Discovery (BOLD) Lab. See at link <a>https://bold-lab.ai/<a>.
+        {{% /callout %}}
+  - block: markdown
     id: research
     content:
       text: |-
@@ -39,8 +46,6 @@ sections:
                 <i class="fab fab-githubpr-1" aria-hidden="true"></i>Follows us on Twitter
                 </a>
           </p>
-    design:
-      columns: '2'
   - block: people
     id: people
     content:

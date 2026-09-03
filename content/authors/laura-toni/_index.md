@@ -9,9 +9,6 @@ authors:
 # Role/position
 role: Associate Professor
 
-# Short bio (displayed in user profile at end of posts)
-bio: >
-
 # List each interest with a dash
 interests:
 - Immersive communications

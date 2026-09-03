@@ -31,7 +31,6 @@ The deployment to <http://lasp-ucl.github.io> is done by [a GitHub workflow](.gi
 
 See deployment logs (and possible fails) at the [project actions](https://github.com/LASP-UCL/lasp-ucl.github.io/actions).
 
-
 ## References of other websites using HugoBlox Academic Group Theme
 
 - <https://github.com/logconference/logconference.github.io>
